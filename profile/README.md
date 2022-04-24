@@ -25,6 +25,12 @@ Blockchain solutions have become exoteric and unreadable, as technical debt over
 the entry of new minds and ideas.
 ```
 
+
+
+
+
+
+
 ## 🏗 What are we building
 
 ```
