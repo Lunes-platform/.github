@@ -16,3 +16,12 @@ Lunes is a proof-of-stake blockchain. By design, it consumes much less energy an
 ## 🏗 How
 
 **Decoupling components and writing accurate, readable documentation for everyone to contribute.**
+
+
+
+## 🛟 Need help?
+
+| | username | talk me about... |
+| - | - | - |
+| <img src="https://avatars.githubusercontent.com/olivmath" height="50px" title="Lucas Oliveira"/> | [olivmath](https://github.com/olivmath) | Blockchain, Cryptography and Math |
+| <img src="https://avatars.githubusercontent.com/robson036" height="50px" title="Robson Miranda"/> | [robson036](https://github.com/robson036) | Front-end, Wallet and Integrations with Lunes |
