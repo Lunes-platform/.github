@@ -18,8 +18,8 @@ Lunes is a proof-of-stake blockchain. By design, it consumes much less energy an
 **Decoupling components and writing accurate, readable documentation for everyone to contribute.**
 
 
-
-## 🛟 Need help?
+---
+# 🛟 Need help?
 
 | | username | talk me about... |
 | - | - | - |
